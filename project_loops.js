@@ -32,7 +32,7 @@ function mintNFT (nft) {
     nft.push(objMint);
     objMint = {};
 
-    objMint.name = "CatCoins";
+    objMint.name = "CatCoinage";
     objMint.data = 30;
     objMint.price = 3500;
     
